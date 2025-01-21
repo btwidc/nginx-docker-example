@@ -1,1 +1,1 @@
-Nginx Docker With Jenkins Pipeline CI/CD
+Nginx Docker With Jenkins Pipeline CI/CD Example
