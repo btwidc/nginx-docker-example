@@ -1,1 +1,1 @@
-Nginx Docker With Jenkins Pipeline CI/CD Example Test SSH
+Nginx Docker With Jenkins Pipeline CI/CD Example Test Pull
